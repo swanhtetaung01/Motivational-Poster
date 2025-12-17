@@ -6,6 +6,8 @@ img {
     width: 50%;
     margin-left: 25%;
     margin-top: 100px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
 body {
